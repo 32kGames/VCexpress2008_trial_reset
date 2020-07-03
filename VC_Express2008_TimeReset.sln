@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VC_Express2008_TimeReset", "VC_Express2008_TimeReset.vcproj", "{644DAD1C-8AAE-4DB2-9B6B-68FD13F7046F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{644DAD1C-8AAE-4DB2-9B6B-68FD13F7046F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{644DAD1C-8AAE-4DB2-9B6B-68FD13F7046F}.Debug|Win32.Build.0 = Debug|Win32
+		{644DAD1C-8AAE-4DB2-9B6B-68FD13F7046F}.Release|Win32.ActiveCfg = Release|Win32
+		{644DAD1C-8AAE-4DB2-9B6B-68FD13F7046F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
